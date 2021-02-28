@@ -6,9 +6,9 @@
 - 🎯我喜欢玩我的世界,是一个忠实的pvp玩家,但请您不要误会,我不像pvp圈子那样戾气很重,虽然有点阴阳怪气,但不会像pvp圈子里的那些人,如果我对您阴阳怪气,这只能说明您让我感觉到了不舒服
 
 ### 跟随👴
-- 📖[我的博客](https://blog.keepdai.cn/)：https://blog.keepdai.cn/
-- 🍻[网易云](https://music.163.com/#/user/home?id=1617933204) /
-- 🍀[微信](https://cdn.jsdelivr.net/gh/Daibi-mua/cdn@main/weixin.jpg) /
+- 📖[我的博客](https://blog.keepdai.cn/)：https://blog.keepdai.cn
+- 🍻[网易云](https://music.163.com/#/user/home?id=1617933204):https://music.163.com/#/user/home?id=1617933204 
+- 🍀[微信](https://cdn.jsdelivr.net/gh/Daibi-mua/cdn@main/weixin.jpg):https://cdn.jsdelivr.net/gh/Daibi-mua/cdn@main/weixin.jpg 
 
 ### 🍼Github Status
 ![](https://github-readme-stats.vercel.app/api?username=Daibi-mua&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=2ec1ac)
