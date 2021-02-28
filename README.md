@@ -1,8 +1,8 @@
 ### 🎈关于我
 
-- 🎃Daibi_mua——之前混迹各大平台,并没有一个名字,都是一个平台一个网名,后来因为行事很呆头呆脑的,莫群一南京人天天叫我呆逼,久而久之也就真正用了这个名字了蛮不错的,有些事情还是呆呆的比较好: **/spɔiɜ:ns /**)
-- 👔I am currently an undergraduate student in Computer Science and Technology🥺
-- 🎨I love new things, the internet and Hip-Hop music
+- 🎃Daibi_mua——之前混迹各大平台,并没有一个名字,都是一个平台一个网名,后来因为行事很呆头呆脑的,莫群一南京人天天叫我呆逼,久而久之也就真正用了这个名字了蛮不错的,有些事情还是呆呆的比较好
+- 👔目前就读于一所乡镇中学,并有一个还算不错的名次🥺
+- 🎨我喜欢互联网,喜欢折腾,喜欢吹牛逼,而且我还很喜欢美术,但是我的美术功底还停留在小学三年级,是的 我是个画画白痴
 - 🎯I rarely play PC or console games, and I only play the mobile game the King of Glory
 
 ### ⛳Find Me
